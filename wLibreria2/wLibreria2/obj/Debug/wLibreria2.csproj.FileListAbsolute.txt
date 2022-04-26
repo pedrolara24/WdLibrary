@@ -1,0 +1,11 @@
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\bin\Debug\wLibreria2.exe.config
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\bin\Debug\wLibreria2.exe
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\bin\Debug\wLibreria2.pdb
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\obj\Debug\wLibreria2.csproj.AssemblyReference.cache
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\obj\Debug\wLibreria2.Padre.resources
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\obj\Debug\wLibreria2.FrmHijo.resources
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\obj\Debug\wLibreria2.Properties.Resources.resources
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\obj\Debug\wLibreria2.csproj.GenerateResource.cache
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\obj\Debug\wLibreria2.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\obj\Debug\wLibreria2.exe
+C:\Users\Emanuel\source\repos\wLibreria2\wLibreria2\obj\Debug\wLibreria2.pdb
